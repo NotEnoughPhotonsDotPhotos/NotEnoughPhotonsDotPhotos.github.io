@@ -1,0 +1,43 @@
+---js
+const eleventyNavigation = {
+	key: "Home",
+	order: 1
+};
+
+const numberOfLatestPostsToShow = 3;
+---
+<img src="./images/2024_Moremi_moon.jpg" alt="a crescent moon" title="the moon, as observed from the Okavango Delta in Botswana"/>
+
+<h3 id="landing_header">Well hello there</h3>
+<p>Welcome to the Not Enough Photons night photography blog. 
+This is a home for my various astrophotography projects, which range from Milky Way nightscapes to
+deep space objects. I'll also include some discusssion about the tools and techniques that go into
+the making of the images.</p>
+
+<p>Completionists can start <a href="/blog/introduction">here</a>. 
+Or, jump right to my most recent posts:</p> 
+
+{% set postsCount = collections.posts | length %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+
+<!--
+<h2>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h2>
+-->
+
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
+
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
+{% endif %}
+
+{# List every content page in the project #}
+{#
+<ul>
+	{%- for entry in collections.all %}
+	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+	{%- endfor %}
+</ul>
+#}

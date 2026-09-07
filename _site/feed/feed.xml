@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  
+  <title>Blog Title</title>
+  <subtitle>This is a longer description about your blog.</subtitle>
+  <link href="https://example.com/feed/feed.xml" rel="self" />
+  <link href="https://example.com/" />
+  <updated>2026-09-05T00:00:00Z</updated>
+  <id>https://example.com/</id>
+  <author>
+    <name>Your Name</name>
+  </author>
+  <entry>
+    <title>2026 Rosette nebula</title>
+    <link href="https://example.com/blog/2026_rosette_nebula/" />
+    <updated>2026-09-05T00:00:00Z</updated>
+    <id>https://example.com/blog/2026_rosette_nebula/</id>
+    <content type="html">&lt;p&gt;By winter 2025-2026, I was curious about capturing images of deep space objects (DSOs) without a smart telescope. Capturing DSOs involves dfferent photographic techniques and more gear, so the learning curve is steeper here than with other forms of night photography. I&#39;m pretty proud of this Rosette nebula image.&lt;/p&gt;
+&lt;p&gt;The best part of this image is that I collected this data from my Bortle eighteen bazillion backyard. I was able to do that because narrowband filters can isolate certain emissions from nebulas even when city lights and moon light are factors. Since I had inconveniently-located buildings and trees to work around, it took me four nights to collect enough data to make this image.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_rosette_nebula.jpg&amp;width=3758&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_rosette_nebula.jpg&amp;width=3758&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_rosette_nebula.jpg&amp;width=3758&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;2026 Rosette Nebula&quot; width=&quot;3758&quot; height=&quot;2684&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Astro-modified Canon R8, Canon RF 100mm-500mm USM lens, Star Adventurer GTI mount, Optolong L-eXtreme dual narrowband filter. To capture enough light, I needed to take three minute exposures. My mount wasn&#39;t up to that without help, so I added in a guidecam/scope, the ZWO ASI220 mono mini and ZWO 30mm f/5 mini guide scope. I used &lt;a href=&quot;https://nighttime-imaging.eu/&quot;&gt;NINA&lt;/a&gt; to manage the data acquisition process. Total integration time was 207 minutes, and I processed the results in &lt;a href=&quot;https://siril.org/&quot;&gt;Siril&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Umatilla Rock star trails</title>
+    <link href="https://example.com/blog/2026_sun_lakes_star_trail/" />
+    <updated>2026-09-04T00:00:00Z</updated>
+    <id>https://example.com/blog/2026_sun_lakes_star_trail/</id>
+    <content type="html">&lt;p&gt;Speaking of Sun Lakes, that&#39;s where I created this star trails image with Umatilla Rock in the foreground. It was my second or third attempt at a star trails image, and the first I was reasonably happy about.&lt;/p&gt;
+&lt;p&gt;These images are made by stacking lots of individual images together, as in the comet picture before. But there&#39;s a difference in the kind of stacking involved, and this is reflected in the amount of work needed to produce the final composite image.&lt;/p&gt;
+&lt;p&gt;In the case of stacking the comet, the pixels are averaged together; this removes transient, extraneous noise from the image. And for the purposes of this discussion, planes and satellites are &amp;quot;extraneous noise.&amp;quot;&lt;/p&gt;
+&lt;p&gt;In a star trails image, a transient light pixel isn&#39;t noise, it&#39;s a precious snapshot of the ancient cosmos. So at the end of stacking a star trails image, you&#39;ll find you have also preserved a record of the universe beyond as it moves through space and time, but also every commuter flight and Starlink satellite that passed by while you were running your camera. You can either erase them all in the final image -- which is hard to do without also messing up the star trails -- or you&#39;ll need to go through each individual image and erase the plane and satellite trails first. Which is a lot of work! Ask me how I know!&lt;/p&gt;
+&lt;p&gt;Anyway, I think star trail images are beautiful, but I don&#39;t think I&#39;ll be doing a ton of these.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_sun_lakes_star_trail.jpg&amp;width=6000&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_sun_lakes_star_trail.jpg&amp;width=6000&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_sun_lakes_star_trail.jpg&amp;width=6000&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;Umatilla Rock star trails&quot; width=&quot;6000&quot; height=&quot;4000&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Unmodified Canon R8, Canon RF 16mm f/2.8 STM lens. 101 images of 25-second exposures, for a total integration time of 42 minutes. Processed in Photoshop.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2025 C/2025 R3 (Panstarrs)</title>
+    <link href="https://example.com/blog/2025_c2025_r3_panstarrs/" />
+    <updated>2026-09-03T00:00:00Z</updated>
+    <id>https://example.com/blog/2025_c2025_r3_panstarrs/</id>
+    <content type="html">&lt;p&gt;I got curious about imaging deep space objects (DSOs), but didn&#39;t (yet) have the skills to capture them. I got a Seestar 30 smart telescope to ease my path, and was promptly amazed at what this &amp;quot;toy&amp;quot; could do. You just tell it what you want to capture, it goes and finds it, starts collecting single images (&amp;quot;subs&amp;quot;) and then stacks them for you. You see the whole process live on your phone: a few minutes in, you think, &amp;quot;I&#39;m supposed to be impressed by this... faint smudge?!?&amp;quot; But with more integration time, the object gets progressively more defined. It reminds me of seeing Polaroid film develop.&lt;/p&gt;
+&lt;p&gt;Here is an image of the comet 2025/R3 (Panstarrs) the Seestar collected at Sun Lakes State Park. The comet was appearing very very late, so I configured the capture on my phone and went to sleep. When I woke up, the image was waiting for me. I don&#39;t think I will ever stop being amazed by this.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2Fc2025_r3_panstarrs_final.jpg&amp;width=977&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2Fc2025_r3_panstarrs_final.jpg&amp;width=977&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2Fc2025_r3_panstarrs_final.jpg&amp;width=977&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;C/2025 R3 (Panstarrs)&quot; width=&quot;977&quot; height=&quot;1737&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Seestar 30. This is a stack of 83 10-second images, making an integration time of just over 13 minutes. You can often improve the final stacked image by setting the smart telescope to save the individual subs and do the stacking step manually. That&#39;s what I did here, saving the final steps and tweaks for &lt;a href=&quot;https://siril.org&quot;&gt;Siril astronomical image processing software&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2024 aurora</title>
+    <link href="https://example.com/blog/2024_aurora_hurricane_ridge/" />
+    <updated>2026-09-02T00:00:00Z</updated>
+    <id>https://example.com/blog/2024_aurora_hurricane_ridge/</id>
+    <content type="html">&lt;p&gt;Some of my earliest night photography subjects were auroras. Here&#39;s one of my favorite aurora images, from 2024 on Hurricane Ridge in the Olympic National Park.&lt;/p&gt;
+&lt;p&gt;True story: I was up there to photograph the Milky Way to the south. But no matter what settings I used, I was getting washed-out junk. Finally I glanced over my shoulder to the north and saw that there was the most beautiful, vibrant aurora going on. OK! Time to turn my tripod around!&lt;/p&gt;
+&lt;p&gt;In the summer, the Park Service runs a wonderful night sky program on Hurricane Ridge. See the &lt;a href=&quot;https://www.nps.gov/olym/planyourvisit/nightsky.htm&quot;&gt;Park Service&#39;s Olympics night sky page&lt;/a&gt; for details. It&#39;s nearly over for 2026, but if the Olympic National Park still exists next year you should check it out.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_aurora_hurricane_ridge.jpg&amp;width=6000&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_aurora_hurricane_ridge.jpg&amp;width=6000&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_aurora_hurricane_ridge.jpg&amp;width=6000&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;2024 aurora&quot; width=&quot;6000&quot; height=&quot;4000&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Unmodified Canon R8, Canon RF 16mm f/2.8 STM lens&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2025 Milky Way and Mount Rainier</title>
+    <link href="https://example.com/blog/2025_mt_rainier_milky_way/" />
+    <updated>2026-09-01T00:00:00Z</updated>
+    <id>https://example.com/blog/2025_mt_rainier_milky_way/</id>
+    <content type="html">&lt;p&gt;I first got interested in night photography when I saw some amazing Milky Way images, which inspired me to go out and try this for myself. This is one of my earlier efforts, with the Milky Way next to Mount Rainier, captured from Sunrise, Washington. Do you see those tiny specks of light on the left flank of the mountain? Those are climbers starting their summit push.&lt;/p&gt;
+&lt;p&gt;This image demonstrates that you don&#39;t need expensive gear to do night photography. I created this with a not-fancy mirrorless camera, a reasonably fast prime lens and a tripod.
+Afterwards I used a technique called stacking to build a single image from a number of individual images. The benefit to this is that it supresses the random sensor noise inherent in low-light photography. I finished with a little post-stacking touch-up in Photoshop.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2025_mt_rainier_milky_way.jpg&amp;width=4539&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2025_mt_rainier_milky_way.jpg&amp;width=4539&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2025_mt_rainier_milky_way.jpg&amp;width=4539&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;2025 Milky Way and Mount Rainier&quot; width=&quot;4539&quot; height=&quot;3032&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Unmodified Canon R8, Canon RF 16mm f/2.8 STM lens. Processed in &lt;a href=&quot;https://sites.google.com/site/starrylandscapestacker/home&quot;&gt;Starry Landscape Stacker&lt;/a&gt; and Photoshop. This image was made from 22 25-second exposures, for a bit over nine minutes of exposure time in total.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2024 Desolation Sound</title>
+    <link href="https://example.com/blog/2024_desolation_sound/" />
+    <updated>2026-09-01T00:00:00Z</updated>
+    <id>https://example.com/blog/2024_desolation_sound/</id>
+    <content type="html">&lt;p&gt;In the summer of 2024, I shot an early-nightfall image of several boat neighbors at our anchorage in Desolation Sound in British Columbia.
+Because my boat was moving in the water, I had to use a short exposure of 1/15 of a second to minimize shake. Even though I had a f/2.8 lens, I needed
+to compensate for that with a very high ISO of 80000. Mirrorless cameras have made great strides at high ISOs, but they can&#39;t work miracles.
+The resulting grainy image was pretty terrible.&lt;/p&gt;
+&lt;p&gt;I thought this would make an interesting test case for noise reduction tools. Could post-processing software rescue something this bad? Yes, yes it can.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_desolation_sound_comparison.png&amp;width=1546&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_desolation_sound_comparison.png&amp;width=1546&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_desolation_sound_comparison.png&amp;width=1546&amp;format=png&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;Desolation Sound image, original vs. noise-reduction&quot; width=&quot;1546&quot; height=&quot;833&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;And here&#39;s the final image. It wouldn&#39;t survive a tight crop, but it is miles above what I started with.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_desolation_sound.jpg&amp;width=5580&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_desolation_sound.jpg&amp;width=5580&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2024_desolation_sound.jpg&amp;width=5580&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;Desolation Sound image, final version&quot; width=&quot;5580&quot; height=&quot;3721&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Unmodified Canon R8, Canon RF 16mm F2.8 STM lens. A single image, processed in Photoshop and Topaz.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2026 partial lunar eclipse (2/n)</title>
+    <link href="https://example.com/blog/2026_lunar_eclipse_2/" />
+    <updated>2026-08-30T02:00:00Z</updated>
+    <id>https://example.com/blog/2026_lunar_eclipse_2/</id>
+    <content type="html">&lt;p&gt;In addition to my long lens setup, I brought along a second camera body and a 16mm lens. My Hurricane Ridge plan had been to make a second wide-angle image of the lunar eclipse on the left and dimmer Milky Way core on the right. Because of the dynamc range I&#39;d have to take multiple shots at different exposure lengths  and then combine them into a composite image.&lt;/p&gt;
+&lt;p&gt;However, the best-laid plans of mice and night photographers often go awry, and the chances of picking up the Milky Way core on Ediz Hook looking south are basically non-existent. I put up the second rig and let it fire away, just to see if I could pick up anything. Below is the best shot of the lot.&lt;/p&gt;
+&lt;p&gt;When I got back to town, I learned that Puget Sound had enjoyed a surprise clear evening and everyone was out taking pictures of the lunar eclipse. My neighbor showed me a beautiful shot that he got in our neighborhood with his birding scope and his phone. LOLsob.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_lunar_eclipse_16mm.jpg&amp;width=3318&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_lunar_eclipse_16mm.jpg&amp;width=3318&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_lunar_eclipse_16mm.jpg&amp;width=3318&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;2026 partial lunar eclipse - wide angle&quot; width=&quot;3318&quot; height=&quot;2212&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Astro-modified Canon R8, Canon RF 16mm F2.8 STM lens. Processed in Photoshop, with denoising and sharpening in Topaz.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2026 partial lunar eclipse (1/n)</title>
+    <link href="https://example.com/blog/2026_lunar_eclipse_1/" />
+    <updated>2026-08-30T01:00:00Z</updated>
+    <id>https://example.com/blog/2026_lunar_eclipse_1/</id>
+    <content type="html">&lt;p&gt;A few weeks later, there was a partial lunar eclipse. &amp;quot;Partial&amp;quot; makes it sound pretty junior league, but in the Americas it was still going to be impressive.&lt;/p&gt;
+&lt;p&gt;By this time I was back home in Washington State, and was looking at a discouraging weather forecast for the night of August 27th.  I decided that the Olympic Peninsula
+was our best shot, and my wife and I drove up to Hurricane Ridge in the Olympic National Park. It looked like pea soup up there. We quickly decided to head back down to Port Angeles, where at least there were some broken clouds.&lt;/p&gt;
+&lt;p&gt;We set up on Ediz Hook under thick cloud cover and waited. About ten minutes past the maximum, the moon started to poke out from the clouds every now and then. This was our chance.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_lunar_eclipse.jpg&amp;width=3249&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_lunar_eclipse.jpg&amp;width=3249&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_lunar_eclipse.jpg&amp;width=3249&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;2026 partial lunar eclipse&quot; width=&quot;3249&quot; height=&quot;2165&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Unmodified Canon R8, Canon RF 100mm-500mm USM lens. Processed in Photoshop, with denoising and sharpening in Topaz.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2026 total solar eclipse (8/n)</title>
+    <link href="https://example.com/blog/2026_eclipse_8/" />
+    <updated>2026-08-13T08:00:00Z</updated>
+    <id>https://example.com/blog/2026_eclipse_8/</id>
+    <content type="html">&lt;p&gt;What an amazing experience that was! Also, we were &lt;em&gt;ridiculously&lt;/em&gt; lucky.&lt;/p&gt;
+&lt;p&gt;I wanted to mention a couple of tools that were helpful to me.&lt;/p&gt;
+&lt;p&gt;First, &lt;a href=&quot;http://xjubier.free.fr/en/index_en.html&quot;&gt;Xavier Jubier&#39;s eclipse website&lt;/a&gt; is a phenomenal resource. It has detailed path maps for solar and lunar eclipses -- this should be stop #1 for people wanting to see an eclipse.&lt;/p&gt;
+&lt;p&gt;Another great planning tool is &lt;a href=&quot;https://www.peakfinder.com&quot;&gt;PeakFinder&lt;/a&gt;, which let me plot out the sun and moon&#39;s position relative to local terrain features. I used this to vet some potential viewing sites ahead of time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazingsky.com/EclipseBook&quot;&gt;Alan Dyer&#39;s eclipse photography book&lt;/a&gt; exhaustively covers techniques for imaging eclipses, from telephotos to wide angle shots to timelapses.&lt;/p&gt;
+&lt;p&gt;Gordon Telespun&#39;s &lt;a href=&quot;https://solareclipsetimer.com/&quot;&gt;talking solar eclipse timing app&lt;/a&gt; was very helpful for eclipse day observing.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2026 total solar eclipse (7/n)</title>
+    <link href="https://example.com/blog/2026_eclipse_7/" />
+    <updated>2026-08-13T07:00:00Z</updated>
+    <id>https://example.com/blog/2026_eclipse_7/</id>
+    <content type="html">&lt;p&gt;Totality was over. It was time to put our solar glasses back on and put the solar filters back on the cameras.&lt;/p&gt;
+&lt;p&gt;About five minutes after I took this image, the forecasted dense cloud banks rolled in. You couldn&#39;t see a thing.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_tse_after_totality.jpg&amp;width=3305&amp;format=avif&amp;via=transform&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_tse_after_totality.jpg&amp;width=3305&amp;format=webp&amp;via=transform&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/.11ty/image/?src=content%2Fimages%2F2026_tse_after_totality.jpg&amp;width=3305&amp;format=jpeg&amp;via=transform&quot; alt=&quot;image&quot; title=&quot;After totality&quot; width=&quot;3305&quot; height=&quot;3304&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;details-box&quot;&gt;
+&lt;p&gt;Astro-modified Canon R8, Canon RF 100mm-500mm USM lens. Processed in Photoshop.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
