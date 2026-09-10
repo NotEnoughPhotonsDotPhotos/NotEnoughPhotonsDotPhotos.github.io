@@ -3,3 +3,10 @@
 	margin: 0 auto;
 	background-color: lightgray;
 }
+@media (prefers-color-scheme: dark) {
+        .details-box {
+                padding: 0;
+                margin: 0 auto;
+                background-color: #416282;
+        }
+}
